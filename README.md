@@ -1,3 +1,3 @@
 # anil-jena
 this is my first git repository
-Author Anil Kumar Jena
+Author-Anil Kumar Jena
